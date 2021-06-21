@@ -1,0 +1,52 @@
+hr {
+    opacity: .35;
+    margin: 1% auto;
+    width: 20%;
+    border-top: 3px solid #000000;
+}
+
+h3 {
+    padding-top: 1%;
+}
+
+.head {
+    margin-top: 2.5%;
+}
+
+.logo {
+    width: 3rem;
+}
+
+.about {
+    padding: 2% auto;
+    min-height: 250px;    
+}
+
+.project {
+    padding: 3% auto;
+    min-height: 325px;
+}
+
+.project a img {
+    width: 45%;
+    margin: 4%;
+    padding: auto;
+}
+
+.contact {
+    padding-top: 2%;
+    height: 600px;
+}
+
+.contact form {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.contact form label {
+    font-weight: bold;
+}
+
+.footer {
+    height: 35px;
+}
