@@ -1,0 +1,46 @@
+* {
+  font-family: 'Patrick Hand', cursive;
+}
+
+.logos {
+  width: 10rem;
+}
+
+.logonav {
+  width: 2rem;
+}
+
+body {
+  background-image: url('../img/background.png');
+  background-color: #555;
+  height: 100%;
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand {
+  font-family: 'Sedgwick Ave', cursive;
+  letter-spacing: 0.1em;
+}
+
+.nav-link {
+  font-size: 1.2em;
+}
+
+.coomingsoon ul li:hover {
+  color: red;
+}
+
+.about li {
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.about ul li h4:hover {
+  color: aqua;
+}
+
+.teksupdate:hover {
+  color: aqua;
+}
